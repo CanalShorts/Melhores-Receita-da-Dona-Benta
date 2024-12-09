@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receitas da Dona Benta</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #ffa500;
+      color: white;
+      padding: 20px 0;
+    }
+    section {
+      margin: 20px;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Receitas da Dona Benta</h1>
+  </header>
+  <section>
+    <h2>Bem-vindo!</h2>
+    <p>Aqui você encontrará as melhores receitas caseiras.</p>
+    <p>Explore e divirta-se na cozinha!</p>
+  </section>
+</body>
+</html>
